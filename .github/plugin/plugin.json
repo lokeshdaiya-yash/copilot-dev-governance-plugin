@@ -1,0 +1,12 @@
+{
+  "name": "dev-governance",
+  "description": "Architecture, security review agents and database migration review skill",
+  "version": "1.0.0",
+  "agents": [
+    "./agents/api-architect.agent.md",
+    "./agents/secure-code-reviewer.agent.md"
+  ],
+  "skills": [
+    "./skills/database-migration-review/"
+  ]
+}
