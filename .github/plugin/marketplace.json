@@ -1,0 +1,14 @@
+{
+  "plugins": [
+    {
+      "name": "dev-governance",
+      "description": "Architecture, security and database governance plugin",
+      "version": "1.0.0",
+      "source": {
+        "type": "github",
+        "repo": "lokeshdaiya-yash/copilot-dev-governance-plugin",
+        "path": "/"
+      }
+    }
+  ]
+}
