@@ -9,6 +9,16 @@
         "repo": "lokeshdaiya-yash/copilot-dev-governance-plugin",
         "path": "/"
       }
+    },
+    {
+      "name": "diagnostic-test",
+      "description": "Test plugin entry",
+      "version": "0.0.1",
+      "source": {
+        "type": "github",
+        "repo": "github/awesome-copilot",
+        "path": "/"
+      }
     }
   ]
 }
